@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/g._.s_0428-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/>
+<a href="https://www.instagram.com/g._.s_0428/" target="_blank"><img src="https://img.shields.io/badge/g._.s_0428-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs0428&show_icons=true&theme=great-gatsby)
 - 👋 Hi, I’m @gs0428
 - 👀 I’m interested in ...
