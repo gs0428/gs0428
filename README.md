@@ -16,9 +16,18 @@
 
 ---
 
-<div align=center><h2>
-
- ⭐ Profile ⭐ 
+<div align=center>
+  
+#  ⭐ Profile ⭐ 
   
 <a href="https://www.instagram.com/g._.s_0428/" target="_blank"><img src="https://img.shields.io/badge/g._.s_0428-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/>
-</h2></div>
+</div>
+
+---
+  
+<div align=center> 
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lider28)](https://solved.ac/lider28)
+  
+</div>
