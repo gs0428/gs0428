@@ -1,3 +1,6 @@
+# HELLO 😊
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgs0428&count_bg=%23FFFFFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+---
 <a href="https://www.instagram.com/g._.s_0428/" target="_blank"><img src="https://img.shields.io/badge/g._.s_0428-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/>
   ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs0428&show_icons=true&theme=great-gatsby)
