@@ -1,29 +1,28 @@
-<div align=center><h1> # HELLO 😊 </h1></div>
+<div align=center><h1> 
+  
+HELLO 😊
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgs0428&count_bg=%23204B94&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)  
+  
+</h1></div>
 
-<div align=center>
+<div align=center><h1>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs0428&show_icons=true&theme=great-gatsby)
 
-</div>
+  </h1></div>
 
----
 
-<div align=center>
+
+<div align=center><h1>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgs0428&count_bg=%23204B94&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
-
----
-
-<div align=center>
-  
-#  ⭐ Profile ⭐ 
+⭐ Profile ⭐ 
   
 <a href="https://www.instagram.com/g._.s_0428/" target="_blank"><img src="https://img.shields.io/badge/g._.s_0428-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/>
-</div>
 
----
+</h1></div>
+
+
   
 <div align=center> 
   
