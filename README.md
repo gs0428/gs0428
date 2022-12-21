@@ -20,7 +20,6 @@ HELLO 😊
 <div align=center><h1>
     
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lider28)](https://solved.ac/lider28)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs0428&show_icons=true&theme=great-gatsby)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lider28)](https://solved.ac/lider28)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs0428&show_icons=true&theme=great-gatsby)
 
 </h1></div>
