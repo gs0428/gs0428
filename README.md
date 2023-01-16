@@ -9,15 +9,6 @@ HELLO 😊
 </h1></div>
 
 <div align=center><h1>
-  
-  ⭐ Profile ⭐ 
-  
-<a href="https://www.instagram.com/g._.s_0428/" target="_blank"><img src="https://img.shields.io/badge/g._.s_0428-F76D9C?style=flat&logo=Instagram&logoColor=FFFFFF"/>
-<a href="https://www.instagram.com/ddu._.ri_1117/" target="_blank"><img src="https://img.shields.io/badge/ddu._.ri_1117-FFCED6?style=flat&logo=Badoo&logoColor=FFFFFF"/>
-
-</h1></div>
-
-<div align=center><h1>
     
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lider28)](https://solved.ac/lider28) 
