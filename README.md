@@ -5,7 +5,8 @@ HELLO 😊
 ![2022-12-21 16;38;50](https://user-images.githubusercontent.com/114225974/208847632-4d4267dc-95e0-4574-94e8-5717bba140ad.gif)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgs0428&count_bg=%23204B94&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=black">
+  <a href="https://www.notion.so/120c8a39177849eab58eb3e9cfb4ba03?pvs=4" target='_blank'><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"></a>
+    <a href="https://velog.io/@gs0428" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=ffffff"></a>
   
 </h1></div>
 
