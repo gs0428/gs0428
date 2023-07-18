@@ -1,8 +1,5 @@
 <div align=center>
-  <h1 style="fontSize=50px">HELLO 😊</h1>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgs0428&count_bg=%23204B94&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-    <br/>
+  <h1 style="fontSize=50px">Hello😊</h1>
     <a href="https://www.notion.so/120c8a39177849eab58eb3e9cfb4ba03?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"></a>
     <a href="https://velog.io/@gs0428"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=ffffff"></a>
 
