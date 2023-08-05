@@ -13,5 +13,8 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
+  <h1>📊Github Status</h1>
   
+  ![gs0428's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs0428&show_icons=true&theme=graywhite)
 </div>
