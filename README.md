@@ -1,5 +1,5 @@
 <div align=center>
-  <h1 style="fontSize=50px">Hello😊</h1>
+  <h1 style="fontSize=50px">About me👨🏻‍💻</h1>
     <a href="https://www.notion.so/120c8a39177849eab58eb3e9cfb4ba03?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"></a>
     <a href="https://velog.io/@gs0428"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=ffffff"></a>
 
