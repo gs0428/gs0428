@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <h1>📊Github Status</h1>
   
   ![gs0428's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs0428&show_icons=true&theme=graywhite)
