@@ -3,11 +3,6 @@
     <a href="https://www.notion.so/120c8a39177849eab58eb3e9cfb4ba03?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"></a>
     <a href="https://velog.io/@gs0428"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=ffffff"></a>
 
-  <h1>🏅solved.ac</h1> 
-    
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lider28)](https://solved.ac/lider28)
-  <img src="http://mazandi.herokuapp.com/api?handle=lider28&theme=cold"/>
-
   <h1>⚒️Tech Skills</h1>
   <strong>Usually use</strong>
   <br/>
