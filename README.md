@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Tailwind Css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/zustand-423E39?style=for-the-badge&logo=zustand&logoColor=white">
+  
   <h1>📊Github Status</h1>
   
   ![gs0428's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs0428&show_icons=true&theme=graywhite)
