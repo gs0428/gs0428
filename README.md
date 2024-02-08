@@ -24,4 +24,7 @@
   <h1>📊Github Status</h1>
   
   ![gs0428's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs0428&show_icons=true&theme=graywhite)
+
+  ![snake gif](https://github.com/gs0428/gs0428/blob/output/github-contribution-grid-snake.svg)
+
 </div>
