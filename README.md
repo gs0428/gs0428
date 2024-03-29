@@ -1,9 +1,9 @@
 <h3>👀Activities</h3>
 <ul>
-  <li>6th UMC TUK Lead (2024.03 ~ )</li>
-  <li>14th CMC Web Member (2023.11 ~ 2024.02)</li>
-  <li>5th UMC TUK Web Lead (2023.09 ~ 2024.02)</li>
   <li>4th UMC TUK Web Lead (2023.03 ~ 2023.08)</li>
+  <li>5th UMC TUK Web Lead (2023.09 ~ 2024.02)</li>
+  <li>14th CMC Web Member (2023.11 ~ 2024.02)</li>
+  <li>6th UMC TUK Lead (2024.03 ~ )</li>
 </ul>
 
 <h3>🔧Tech Skills</h3>
