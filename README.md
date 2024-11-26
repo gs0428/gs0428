@@ -5,7 +5,7 @@
   <li>14th CMC Web Member (2023.11 ~ 2024.02)</li>
   <li>6th UMC TUK Lead (2024.03 ~ 2024.08)</li>
   <li>15th CMC Web Lead (2024.03 ~ 2024.09)</li>
-  <li>3rd 9oormthonuniv TUK Lead (2024.08 ~ )</li>
+  <li>3rd 9oormthonUNIV TUK Lead (2024.08 ~ )</li>
 </ul>
 
 <h3>🔧Tech Skills</h3>
