@@ -36,6 +36,11 @@
       <br/>
       <a href="https://github.com/toss/technical-writing/pull/17">fix: add spacing between nav menu and github icon</a>
     </li>
+    <li>
+      <a href="https://github.com/ungmo2/ungmo2.github.io">ungmo2.github.io</a>
+      <br/>
+      <a href="https://github.com/ungmo2/ungmo2.github.io/pull/32">fix: 예제에서 mixed content로 인한 get 실패 수정
+    </li>
 </ul>
 
 
