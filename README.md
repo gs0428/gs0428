@@ -47,7 +47,7 @@
 <br/>
   
 ![gs0428's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs0428&show_icons=true&theme=graywhite)
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gs0428&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/gs0428"
   width="600"
