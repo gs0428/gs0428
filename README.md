@@ -1,3 +1,7 @@
+<h3>Work Experience</h3>
+<ul>
+  <li>오늘의이야기 - 인턴 (프론트엔드) (2025.03 ~ 2025.07)</li>
+</ul>
 <h3>Activities</h3>
 <ul>
   <li>4th UMC TUK Web Lead (2023.03 ~ 2023.08)</li>
@@ -39,7 +43,12 @@
     <li>
       <a href="https://github.com/ungmo2/ungmo2.github.io">ungmo2.github.io</a>
       <br/>
-      <a href="https://github.com/ungmo2/ungmo2.github.io/pull/32">fix: 예제에서 mixed content로 인한 get 실패 수정
+      <a href="https://github.com/ungmo2/ungmo2.github.io/pull/32">fix: 예제에서 mixed content로 인한 get 실패 수정</a>
+    </li>
+    <li>
+      <a href="https://github.com/git-goods/git-animal-client">git-animal-client</a>
+      <br/>
+      <a href="https://github.com/git-goods/git-animal-client/pull/341">fix: 펫 최대 선택 개수 초과 시 toast를 이용한 에러 핸들링</a>
     </li>
 </ul>
 
