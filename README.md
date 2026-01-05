@@ -1,6 +1,7 @@
 <h3>Work Experience</h3>
 <ul>
   <li>오늘의이야기 - 인턴 (프론트엔드) (2025.03 ~ 2025.07)</li>
+  <li>토스증권 - Frontend Ops Developer (2026.01 ~ )</li>
 </ul>
 <h3>Activities</h3>
 <ul>
