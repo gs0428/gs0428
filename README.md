@@ -1,6 +1,6 @@
 <h3>Work Experience</h3>
 <ul>
-  <li>오늘의이야기 - 인턴 (프론트엔드) (2025.03 ~ 2025.07)</li>
+  <li>오늘의이야기 - Frontend Developer (2025.03 ~ 2025.07)</li>
   <li>토스증권 - Frontend Ops Developer (2026.01 ~ )</li>
 </ul>
 <h3>Activities</h3>
@@ -50,6 +50,11 @@
       <a href="https://github.com/git-goods/git-animal-client">git-animal-client</a>
       <br/>
       <a href="https://github.com/git-goods/git-animal-client/pull/341">fix: 펫 최대 선택 개수 초과 시 toast를 이용한 에러 핸들링</a>
+    </li>
+    <li>
+      <a href="https://github.com/reactjs/ko.react.dev">ko.react.dev</a>
+      <br/>
+      <a href="https://github.com/reactjs/ko.react.dev/pull/1380">fix: useSyncExternalStore에서 중복된 내용 제거</a>
     </li>
 </ul>
 
