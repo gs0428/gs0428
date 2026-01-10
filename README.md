@@ -54,6 +54,8 @@
     <li>
       <a href="https://github.com/reactjs/ko.react.dev">ko.react.dev</a>
       <br/>
+      <a href="https://github.com/reactjs/ko.react.dev/pull/1376">docs: React Compiler Configuration 페이지 번역</a>
+      <br/>
       <a href="https://github.com/reactjs/ko.react.dev/pull/1380">fix: useSyncExternalStore에서 중복된 내용 제거</a>
     </li>
 </ul>
