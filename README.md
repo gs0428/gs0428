@@ -37,16 +37,18 @@
 <h3>Contributes</h3>
 <ul style="list-style-type: disc;">
     <li>
+      <a href="https://github.com/TanStack/cli">TanStack CLI</a>
+      <br/>
+      <a href="https://github.com/TanStack/cli/issues/417">ESLint not added to devDependencies when selected during CLI setup</a>
+      <br/>
+      <a href="https://github.com/TanStack/cli/pull/481">fix(create): use shared router factory in router-only apps</a>
+    </li>
+    <li>
       <a href="https://github.com/reactjs/ko.react.dev">ko.react.dev</a>
       <br/>
       <a href="https://github.com/reactjs/ko.react.dev/pull/1376">docs: React Compiler Configuration 페이지 번역</a>
       <br/>
       <a href="https://github.com/reactjs/ko.react.dev/pull/1380">fix: useSyncExternalStore에서 중복된 내용 제거</a>
-    </li>
-    <li>
-      <a href="https://github.com/TanStack/cli">TanStack CLI</a>
-      <br/>
-      <a href="https://github.com/TanStack/cli/issues/417">ESLint not added to devDependencies when selected during CLI setup</a>
     </li>
     <li>
       <a href="https://github.com/toss/technical-writing">technical-writing</a>
